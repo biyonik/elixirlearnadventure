@@ -103,7 +103,15 @@ Bu repo, **Elixir öğrenme serüvenimde** tuttuğum notları, yazdığım kodla
 elixirlearnadventure/
 ├── Level - 1/                      # Seviye - 1
 │   ├── Week 1- 2/                  # Hafta 1 - 2
-|   |   |── first_lesson.exs        # İlk Ders
+|   |   |── first_lesson.exs        
+|   |   |── second_lesson.exs       
+|   |   |── second_lesson_examples.exs
+|   |   |── third_lesson.exs
+|   |   |── third_lesson_continued.exs
+|   |
+├── Examples                        # Örnekler
+│   ├── deep-dive-pattern-matching-and-control-flow.exs
+|
 ├── notlar/                      # Öğrenme notlarım
 │   ├── hatalar-ve-cozumler.md   # Yaptığım hatalar
 │   ├── kaynaklar.md             # Kullandığım kaynaklar
@@ -169,7 +177,7 @@ Elixir öğrenme sürecindeyseniz:
 ### 📞 **İletişim**
 
 - **GitHub Issues:** Sorular ve tartışmalar için
-- [Email](ahmet.altun60@gmail.com)
+- **Email:** ahmet.altun60@gmail.com
 - **Linkedin:** [@biyonik](https://tr.linkedin.com/in/biyonik)
 
 ---
