@@ -1,4 +1,4 @@
-# Practice - 1
+# Practice - 2
 # Easy Level
 # Shopping List
 # Scenario: "You are developing a shopping app, you need to manage the shopping list."
